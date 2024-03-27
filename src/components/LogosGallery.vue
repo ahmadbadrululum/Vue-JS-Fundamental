@@ -60,4 +60,9 @@ export default {
     object-fit: cover;
     border-radius: 20%;
 }
+.item-logos .logo-baru:hover{
+    transform: scale(50.5s);
+    transition: 0.5s;   
+
+}
 </style>
